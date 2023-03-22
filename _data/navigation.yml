@@ -1,8 +1,8 @@
 # main links
 
-main:
-  - title: "Technical Reports"
-    url: /categories/#malware-analysis
+#main:
+ # - title: "Technical Reports"
+  #  url: /categories/#malware-analysis
   #- title: "Public Reports"
    # url: /categories/#binary-exploitation
   #- title: "About me"
