@@ -4,11 +4,11 @@ main:
     url: /categories/#malware-analysis
   - title: "About me"
     url: /categories/#binary-exploitation
-  - title: ""
+  - title: "_"
     url: /categories/#ctf-writeups
-  - title: ""
+  - title: "_"
     url: /categories/#tutorials
-  - title: ""
+  - title: "_"
     url: /categories
    - title: "Sample Posts"
      url: /year-archive/
