@@ -1,20 +1,20 @@
 # main links
-#main:
- # - title: "Malware Analysis"
-  #  url: /categories/#malware-analysis
-  #- title: "About me"
-   # url: /categories/#binary-exploitation
-  #- title: "CTF Writeups"
+main:
+  - title: "Malware Analysis"
+    url: /categories/#malware-analysis
+  - title: "About me"
+    url: /categories/#binary-exploitation
+  - title: " "
    # url: /categories/#ctf-writeups
-  #- title: "Tutorials"
+  - title: " "
    # url: /categories/#tutorials
-  #- title: "All Categories"
+  - title: " "
    # url: /categories
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-  # - title: "Quick-Start Guide"
-  # url: https://google.com
+   - title: "Sample Posts"
+     url: /year-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
+   - title: "Sitemap"
+    url: /sitemap/
+   - title: "Quick-Start Guide"
+   url: https://google.com
