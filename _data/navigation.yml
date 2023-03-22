@@ -1,10 +1,10 @@
 # main links
 
-#main:
- # - title: "Malware Analysis Reports "
-  #  url: /categories/#malware-analysis
- # - title: "About me"
-  #  url: /categories/#binary-exploitation
+main:
+  - title: "Malware Analysis Reports "
+    url: /categories/#malware-analysis
+  - title: "About me"
+    url: /categories/#binary-exploitation
   #- title: "_"
    # url: /categories/#ctf-writeups
   #- title: "_"
