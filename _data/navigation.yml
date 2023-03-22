@@ -1,7 +1,8 @@
 # main links
-main:
-  - title: "Malware Analysis Reports ....................................................................................................................  "
-    url: /categories/#malware-analysis
+
+#main:
+ # - title: "Malware Analysis Reports "
+  #  url: /categories/#malware-analysis
  # - title: "About me"
   #  url: /categories/#binary-exploitation
   #- title: "_"
