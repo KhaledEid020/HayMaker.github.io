@@ -1,12 +1,12 @@
 # main links
 
 main:
-  - title: "Malware Analysis Reports "
+  - title: "Technical Reports"
     url: /categories/#malware-analysis
-  - title: "About me"
+  - title: "Public Reports"
     url: /categories/#binary-exploitation
-  #- title: "_"
-   # url: /categories/#ctf-writeups
+  - title: "About me"
+    url: /categories/#ctf-writeups
   #- title: "_"
    # url: /categories/#tutorials
   #- title: "_"
