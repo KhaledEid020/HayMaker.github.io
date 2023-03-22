@@ -96,7 +96,7 @@ author:
   name             : "Khaled Eid"
   avatar           : /assets/images/site_data/Lion.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Malware Analysis & Reverse Engineering"
-  location         : "Area 51"
+  #location         : "Area 51"
   email            :
   links:
     - label: "Email"
@@ -107,7 +107,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_n1ghtw0lf"
+      url: "https://twitter.com/khaledeid_2000"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -116,7 +116,7 @@ author:
       url: "https://www.linkedin.com/in/khaled-eid-kha200kha2000/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/N1ght-W0lf"
+      url: "https://github.com/KhaledEid020"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
