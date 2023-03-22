@@ -6,7 +6,7 @@ main:
   - title: "Public Reports"
     url: /categories/#binary-exploitation
   - title: "About me"
-    url: /categories/#ctf-writeups
+  #  url: /categories/#ctf-writeups
   #- title: "_"
    # url: /categories/#tutorials
   #- title: "_"
