@@ -2,8 +2,8 @@
 main:
   - title: "Malware Analysis"
     url: /categories/#malware-analysis
- # - title: "Binary Exploitation"
-  #  url: /categories/#binary-exploitation
+  - title: "About me"
+    url: /categories/#binary-exploitation
   #- title: "CTF Writeups"
    # url: /categories/#ctf-writeups
   #- title: "Tutorials"
