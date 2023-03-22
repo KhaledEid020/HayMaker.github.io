@@ -1,9 +1,9 @@
 # main links
-main:
-  - title: "Malware Analysis"
-    url: /categories/#malware-analysis
-  - title: "About me"
-    url: /categories/#binary-exploitation
+#main:
+ # - title: "Malware Analysis"
+  #  url: /categories/#malware-analysis
+  #- title: "About me"
+   # url: /categories/#binary-exploitation
   #- title: "CTF Writeups"
    # url: /categories/#ctf-writeups
   #- title: "Tutorials"
